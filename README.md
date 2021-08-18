@@ -1,5 +1,5 @@
 # shg166 Profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shg166&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shg166&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shg166)](https://github.com/anuraghazra/github-readme-stats)
 
 
