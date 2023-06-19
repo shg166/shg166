@@ -7,4 +7,4 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shg166&show_icons=true)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shg166&theme=github)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shg166&theme=github)
